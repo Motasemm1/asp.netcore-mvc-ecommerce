@@ -5,11 +5,13 @@ A simple e-commerce web application built with ASP.NET Core MVC.
 ## Features
 
 - User Registration and Authentication (Login/Logout)
+- Role-based authorization (Admin, Customer)
 - Product Listing and Detail Pages
 - Shopping Cart
 - Order Processing and Checkout
 - Admin Dashboard for Product Management
 - Responsive Design
+- Modular and scalable architecture
 
 ## Technologies Used
 
